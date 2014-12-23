@@ -1,25 +1,3 @@
-UMassAICourseSearch
-===================
-
-
-/**Code for problem 5 of Homework One in AI course
- 
-* Find the minimum number of moves of knight from 
- 
-* (0,0) to (x,y)
- 
-* @author Liu Yang & Wei Hong
- 
-* @mail lyang@cs.umass.edu & hwberg@gmail.com
- */
------------------------------------------------------
-
-1 This is a Eclipse java project. You can import it directly.
-
-2 To run the program, just run ChessboardSearchAstar.java which has included the main function.
-
-3 The data and figures are in /Figures folder.
-
 
 /**Code for problem 6
 * @author Liu Yang & Wei Hong
@@ -38,3 +16,4 @@ The latter calculate the number of nodes expanded and time used in random genera
 TSPWithMaxMST.java and TSPWithMaxMST_numOfNodes.java use the maximum MST as heuristics whichi is not admissible. The difference is the output, which is analogous to the paragraph above.
 
 plotFigures.m is an Matlab script to plot figures for the questions in the homework.
+
