@@ -12,7 +12,6 @@ UMassAICourseSearch
  
 * @mail lyang@cs.umass.edu & hwberg@gmail.com
  */
------------------------------------------------------
 
 1 This is a Eclipse java project. You can import it directly.
 
