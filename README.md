@@ -20,7 +20,7 @@ UMassAICourseSearch
 3 The data and figures are in /Figures folder.
 
 
-/**Code for problem 6
+/**Code for problem 6 (Travelling Salesman Problem)
 * @author Liu Yang & Wei Hong
  
 * @mail lyang@cs.umass.edu & hwberg@gmail.com
